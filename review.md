@@ -1,7 +1,5 @@
 # Secure Coding Review
 
-## CodeAlpha Cyber Security Internship - Task 3
-
 ## 1. Project Overview
 
 This project demonstrates a secure coding review of a Python application.
