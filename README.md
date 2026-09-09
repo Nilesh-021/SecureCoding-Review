@@ -1,8 +1,6 @@
-# CodeAlpha Secure Coding Review
+# Secure Coding Review
 
 ## 📌 Project Overview
-
-This project is developed for the CodeAlpha Cyber Security Internship - Task 3.
 
 The project demonstrates a secure coding review of a Python application. The original application was manually reviewed to identify security vulnerabilities, and a secure version was developed to address the identified issues.
 
@@ -24,7 +22,7 @@ The project demonstrates a secure coding review of a Python application. The ori
 ## 📂 Project Structure
 
 ```text
-CodeAlpha_SecureCodingReview/
+SecureCodingReview/
 │
 ├── vulnerable_app.py
 ├── secure_app.py
