@@ -1,5 +1,5 @@
 # vulnerable_app.py
-# CodeAlpha - Secure Coding Review
+# Secure Coding Review
 # Educational demonstration only
 
 import sqlite3
